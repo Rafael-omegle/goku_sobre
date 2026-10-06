@@ -1,0 +1,13 @@
+*{
+     min-height:     10px; /* altura da tela */
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-align: center;
+    background: linear-gradient(
+        150deg,
+        #fcf9f786 25%,
+        #5553517a 35%,
+        #9fe9ff 90%
+    ) ;
+
+}
